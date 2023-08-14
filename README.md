@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aashir12
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning ICS(Intermediate in computer sciences)
-- 💞️ I’m looking to collaborate on Html,Java,.php
+- 💞️ I’m looking to collaborate on Html,JavaScript,c++,Mern Stack
 - 📫 How to reach me aashirnawaz5@gmail.com
 
 <!---
