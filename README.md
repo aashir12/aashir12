@@ -3,7 +3,7 @@
 
 <p>
 📧&nbsp;<a href="mailto:aashirnawaz.dev@gmail.com">aashirnawaz.dev@gmail.com</a>&nbsp;&nbsp;
-🔗&nbsp;<a href="https://aashirnawaz.dev">aashirnawaz.dev</a>&nbsp;&nbsp;
+🔗&nbsp;<a href="https://aashir-portfolio-zeta.vercel.app/">aashirnawaz.dev</a>&nbsp;&nbsp;
 📍&nbsp;Islamabad, Pakistan
 </p>
 
