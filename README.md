@@ -107,7 +107,7 @@ Taught web development (HTML, CSS, JS, React, Node.js) to students. Conducted pr
 <tr>
 <td width="75%" valign="top">
 
-**Techifier (Pvt.) Ltd — Full Stack Developer**
+**Tekzephyr (Pvt.) Ltd — Full Stack Developer**
 Worked on tax management platform. Built features, optimized performance, integrated APIs and improved dashboard analytics.
 
 </td>
