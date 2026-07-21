@@ -15,7 +15,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### tekzephyre / Laajverd Dashboard
+### Optinexteck / Laajverd Dashboard
 Analytics + business dashboard with real-time graphs, NPIs and reports. Built with Next.js (App Router) and TypeScript. Role based access, data visualization and performance focused UI.
 
 ![next.js](https://img.shields.io/badge/next.js-1e2530?style=flat-square&color=1e2530&labelColor=1e2530)
