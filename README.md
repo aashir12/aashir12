@@ -2,7 +2,7 @@
 <p><em>full-stack developer · ai · building things that ship</em></p>
 
 <p>
-📧&nbsp;<a href="mailto:aashirnawaz.dev@gmail.com">aashirnawaz.dev@gmail.com</a>&nbsp;&nbsp;
+📧&nbsp;<a href="https://www.linkedin.com/in/aashir-nawaz/">https://www.linkedin.com/in/aashir-nawaz/</a>&nbsp;&nbsp;
 🔗&nbsp;<a href="https://aashir-portfolio-zeta.vercel.app/">aashirnawaz.dev</a>&nbsp;&nbsp;
 📍&nbsp;Islamabad, Pakistan
 </p>
