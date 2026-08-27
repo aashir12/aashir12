@@ -1,4 +1,4 @@
-<h1>aashir nawaz</h1>
+<h1>Aashir Nawaz Awan</h1>
 <p><em>full-stack developer · ai · building things that ship</em></p>
 
 <p>
